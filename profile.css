@@ -1,0 +1,65 @@
+li{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+body{
+    background-image: url(./polka\ dots.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.pink{
+    color: rgb(223, 88, 110);
+    font-weight: 300px;
+}
+section{
+    background-color:burlywood;
+    height: 550px;
+    width: 1000px;
+    border-radius: 30px;
+    border: 120px;
+     }
+.buttons{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    border-radius: 12px
+}
+.work{
+    display: flex;
+    flex-direction: row;
+    margin-top: 55px;
+}
+.girl{
+    height: 320px;
+    width: 400px;
+    margin-left: 25px;
+}
+.follow{
+    border-radius: 12px;
+    background-color: rgb(226, 20, 123);
+    color: white;
+    margin-left: 15px;
+    margin-right: 30px;
+}
+.list{
+    display: flex;
+}
+.nav{
+    background-color: pink;
+    display: flex;
+    margin-top: 40px;  
+}
+.lower{
+    border-radius: 12px;
+    color: white;
+    background-color: rgb(224, 27, 126);
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button:hover{
+    color: palevioletred;
+    font-size: larger;
+}
